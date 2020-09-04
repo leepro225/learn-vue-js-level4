@@ -1,44 +1,17 @@
-# 소개 
+# 현대 웹 서비스 개발 절차
 
-### 실전 강좌 비공개 리포지토리
+### 현대 웹 서비스 개발 절차
 
-https://github.com/joshua1988/vue-advanced    
+요구사항 -> 서비스 기획 -> UI,UX 상세 설계 -> GUI 디자인 -> 퍼블리싱 -> 백엔드 API개발 -> 프론트엔드 개발 -> QA 
     
-    
-### 팀 개발을 위한 Git, Github 시작하기
+### 프론트엔드 개발자의 역할
 
-http://www.yes24.com/Product/Goods/85382769?Acode=101
-
-### 초심자를 위한 Github 협업 튜토리얼
-    
-https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/  
+- 화면단 코드 작성
+- 기획, 디자인, 퍼블리싱, 백엔드 개발자와 소통
 
 
-### 소스트리
+### API 문서
 
-https://www.sourcetreeapp.com/
+- 프론트엔드 개발자와 백엔드 개발자의 소통 문서, 문서 자동화 도구
 
-
-### VSCode 플러그인 리스트
-
-- Atom Keymap : 아톰의 키 설정을 불러오는 플러그인
-- Vetur : Vue.js 플러그인
-- Night Owl : 코드 하이라이팅 플러그인
-- Material Dark Syntax : 코드 하이라이팅 플러그인
-- Google Material Icon Theme : 폴더 아이콘 테마
-- ESLint : 자바스크립트 문법 검사 플러그인
-- TSLint : 타입스크립트 문법 검사 플러그인
-- Auto Close tag : HTML 태그 자동 닫기 플러그인
-- Live Server : 정적 파일을 로컬 서버에 올리고 자동 갱신해주는 플러그인
-
-### 스타일 가이드 링크
-
-https://vuejs.org/v2/style-guide/
-
-
-### 해커뉴스 API
-
-https://news.ycombinator.com/
-
-https://github.com/tastejs/hacker-news-pwas/blob/master/docs/api.md
 
