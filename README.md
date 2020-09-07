@@ -6,9 +6,9 @@ toy-project
 | #   | 날짜                                                                              | 카테고리     | 기록                                                    | 비고 |
 | :-- | :-------------------------------------------------------------------------------- | :----------- | :------------------------------------------------------ | :--- |
 | 1 | 20200904 | 시작 | [현대 웹 서비스 개발 절차](https://github.com/leepro225/learn-vue-js-level4/blob/master/lectures/lecture_01.md) | |
-| 2 | 20200210 | NVM | [노드 버전관리와 NVM](https://github.com/leepro225/learn-vue-js-level4/blob/master/lectures/lecture_02.md) | |
-| 3 | 20200213 | cli | [](https://github.com/leepro225/learn-vue-js-level3/blob/master/lectures/lecture_03.md) | lintonsave |
-| 4 | 20200214 | 라우터 | [](https://github.com/leepro225/learn-vue-js-level3/blob/master/lectures/lecture_04.md) |  |
+| 2 | 20200905 | NVM | [노드 버전관리와 NVM](https://github.com/leepro225/learn-vue-js-level4/blob/master/lectures/lecture_02.md) | |
+| 3 | 20200906 | 세팅 | [ vue프로젝트 생성, ESLint, Prettier, 파일 절대경로 설정, 코딩 컨벤션](https://github.com/leepro225/learn-vue-js-level4/blob/master/lectures/lecture_03.md) | lintonsave |
+| 4 | 20200907 | 라우터 | [](https://github.com/leepro225/learn-vue-js-level3/blob/master/lectures/lecture_04.md) |  |
 | 5 | 20200215 | API | [](https://github.com/leepro225/learn-vue-js-level3/blob/master/lectures/lecture_05.md) |  |
 | 6 | 20200220 | this | [](https://github.com/leepro225/learn-vue-js-level3/blob/master/lectures/lecture_06.md) |  |
 | 7 | 20200220 | 참고 | [](https://github.com/leepro225/learn-vue-js-level3/blob/master/lectures/lecture_07.md) |  |
